@@ -1,0 +1,27 @@
+h1 {
+    color: darkred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.column {
+    float:left;
+    width: 33.33%;
+}
+
+.row::after {
+    content: "";
+    display :table;
+    clear: both;
+}
+
+.container {
+    display: flex;
+}
+
+.container>* {
+    margin: 0 10px;
+    flex: 1;
+}
