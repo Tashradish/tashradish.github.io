@@ -1,3 +1,3 @@
-# tashradish.github.io
+# tashradish.github.io/testversion.html
 
-http://tashradish.github.io/Test.html
+http://tashradish.github.io/testversion.html
