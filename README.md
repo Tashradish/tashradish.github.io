@@ -1,3 +1,3 @@
-# tashradish.github.io/test.html
+# tashradish.github.io/Test.html
 
-http://tashradish.github.io/test.html
+http://tashradish.github.io/Test.html
